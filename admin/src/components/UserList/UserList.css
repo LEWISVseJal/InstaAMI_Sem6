@@ -1,0 +1,28 @@
+.UserList {
+    height: 100vh;
+}
+
+.UserList h1 {
+    position: relative;
+    top: 20px;
+    left: 70px;
+    color: #000;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #fff;
+}
+tr {
+    background-color: #fff;
+}

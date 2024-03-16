@@ -1,0 +1,14 @@
+.UserStats {
+    height: 100vh;
+}
+.UserStats h1 {
+    position: relative;
+    top: 20px;
+    left: 70px;
+    color: #000;
+}
+.UserStats Line {
+    position: relative;
+    top: 20px;
+    left: 70px;
+}

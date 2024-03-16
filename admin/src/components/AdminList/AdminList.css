@@ -1,0 +1,10 @@
+.AdminList {
+    height: 100vh;
+}
+
+.AdminList h1 {
+    position: relative;
+    top: 20px;
+    left: 70px;
+    color: #000;
+}

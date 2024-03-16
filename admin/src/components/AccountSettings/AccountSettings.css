@@ -1,0 +1,13 @@
+.AccountSettings{
+    height: 100vh;
+}
+
+.infoInput {
+    width: 90%; 
+  }
+  
+  
+  .infoButton {
+    /* Add styles for the button inside the form */
+    width: 90%; /* Set default width for button */
+  }

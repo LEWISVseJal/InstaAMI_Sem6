@@ -1,0 +1,22 @@
+.Analytics {
+    height: 100vh;
+  }
+  
+  .Analytics h1 {
+    position: relative;
+      top: 20px;
+      left: 70px;
+      color: #000;
+  }
+  
+  .statsContainer {
+    display: flex;
+    justify-content: center; /* Centering children horizontally */
+    gap: 30px; /* Spacing between the children */
+  }
+  
+  .UserStats, .PostStats {
+    width: 80%; /* Each takes half of the container's width */
+    max-width: 700px; /* Adjust maximum width as needed */
+  }
+  
